@@ -145,13 +145,15 @@ footer {
       backface-visibility: hidden;
       height: 100%;
       position: absolute;
-      width: 300%;
+      width: 200%;
+      padding-right: 400px;
     }
     
     .card .back {
       
       transform: rotateY(180deg);
     }
-    #About Us{padding-top: 500px;
+    #About{
+      padding-top: 500px;
 
     }
